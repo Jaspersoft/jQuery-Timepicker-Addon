@@ -23,7 +23,7 @@
 define(function(require){
 
 
-    var jQuery = require("jquery");
+    var jQuery = require("jquery.ui");
 
 
     (function($) {
