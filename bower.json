@@ -7,6 +7,6 @@
 		"url": "git://github.com/trentrichardson/jQuery-Timepicker-Addon.git"
 	},
 	"dependencies": {
-		"jquery-ui": "git://github.com/Jaspersoft/jquery-ui#1.10.4-js-bower-amd"
+		"jquery-ui": "git://github.com/Jaspersoft/jquery-ui#1.10.4-js-bower-amd-1"
 	}
 }
