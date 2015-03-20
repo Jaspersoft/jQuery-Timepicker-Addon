@@ -1,7 +1,7 @@
 /* English translation for the jQuery Timepicker Addon */
 /* Extracted from main file for unification purposes */
 (function($) {
-	$.timepicker.regional['de'] = {
+	$.timepicker.regional['en'] = {
 		timeOnlyTitle: 'Choose Time',
 		timeText: 'Time',
 		hourText: 'Hour',
@@ -17,5 +17,5 @@
 		pmNames: ['PM', 'P'],
 		isRTL: false
 	};
-	$.timepicker.setDefaults($.timepicker.regional['de']);
+	$.timepicker.setDefaults($.timepicker.regional['en']);
 })(jQuery);	
