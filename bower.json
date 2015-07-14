@@ -7,5 +7,6 @@
 	},
 	"main": ["dist/jquery-ui-timepicker-addon.js", "dist/jquery-ui-timepicker-addon.css"],
 	"dependencies": {
+		"jquery.ui": "git://github.com/Jaspersoft/jquery-ui#1.11-custom"
 	}
 }
