@@ -2248,4 +2248,6 @@
 	*/
 	$.timepicker.version = "@@version";
 
+	return $;
+
 }));
