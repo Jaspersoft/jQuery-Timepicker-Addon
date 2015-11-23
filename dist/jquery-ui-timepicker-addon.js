@@ -2241,6 +2241,7 @@
 	* Keep up with the version
 	*/
 	$.timepicker.version = "1.5.5";
-	
+
 	return $;
+
 }));
